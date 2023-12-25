@@ -141,6 +141,7 @@ dist
 # Optional stylelint cache
 
 ./credentialsFile.json
+credentialsFile.json
 
 # SvelteKit build / generate output
 .svelte-kit
